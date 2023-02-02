@@ -37,11 +37,11 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 ![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/model_validation.png)
 
 * Forecast:
-![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/feat_importance_final.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/forecast.png)
 
 ### Layoff Frequency Prediction - Classification Model
 
-![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/layoffs_by_industry.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/layoffs_ind.png)
 
 * The final model was an XG Boost Classifier, and included categorical data - industry, country, number of employees, status - as well as continuous data - revenue estimate, year of the first round of layoffs, amount raised in the first round of layoffs, Crunchbase trend score, number of acquisitions, number of funding rounds, total funding amount.
 
