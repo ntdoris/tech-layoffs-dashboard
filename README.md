@@ -50,9 +50,9 @@ The data for this project came from several sources:
 ## Repository Structure
 
 ```
-??? Data
-??? Assets <- image files
-??? Data Visualization & Dashboard Notebook
-??? Modeling Notebook
-??? Presentation Deck
-??? README.md
+ ??? Data
+ ??? Assets <- image files
+ ??? Data Visualization & Dashboard Notebook
+ ??? Modeling Notebook
+ ??? Presentation Deck
+ ??? README.md
