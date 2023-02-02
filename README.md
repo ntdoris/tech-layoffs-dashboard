@@ -5,10 +5,11 @@
 [Source: Capital Search](https://www.capitalsearch.com/2018-job-market/)
 
 
-Since the beginning of this year, over 85,000 people in the tech industry have lost their jobs. Given these massive numbers, I thought it would be helpful to take a deeper look at the state of the industry to get a sense of what is really going on behind the scenes -- and to see whether there is hope for any of us out there who are looking for a job.
+According to [layoffs.fyi](https://layoffs.fyi/), since the beginning of this year, over 85,000 people in the tech industry have lost their jobs. Given these massive numbers, I thought it would be helpful to take a deeper look at the state of the industry to get a sense of what is really going on behind the scenes -- and to see whether there is hope for any of us out there who are looking for a job.
 
-This dashboard is split into three sections - the first will give a general sense of economic conditions in the sector and more generally, the second will take a closer look at recent layoffs and predict whether companies will experience multiple rounds or just a one off, and the third will 
-focus on job postings
+To tackle this problem, I ran a classification model targeting whether a company will need to execute more than one round of layoffs as well as a time series model forecasting future job postings. To bring it all together, I created an interactive dashboard, split into three sections.
+
+The first will give a general sense of economic conditions in the sector more generally, the second will take a closer look at recent layoffs and predict whether companies will experience multiple rounds or just a one off, and the third will focus on job postings. If you're just curious on what the state of the industry looks like, the first tab will be the most useful. If you're in the industry, and haven't been laid off, the layoff tab is where you can go to predict whether your company may be needing to do another round. If you've been laid off and are looking at a job, your focus will be the job postings forecast - will more jobs be available in the near future for you to apply to? 
 
 
 ## The Data
