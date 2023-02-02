@@ -30,26 +30,28 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 ### Job Postings Time Series Forecast
 
 * The data showed a clear upward trend and 52-week seasonality:
-![image]()
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/seasonality.png)
 
 * The final model passed all assumptions, and resulted in a RMSE of ~ 0.1
-![image]()
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/model_validation.png)
 
 * Forecast:
-![image]()
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/feat_importance_final.png)
 
 ### Layoff Frequency Prediction - Classification Model
 
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/layoffs_by_industry.png)
+
 * The final model was an XG Boost Classifier, and included categorical data - industry, country, number of employees, status - as well as continuous data - revenue estimate, year of the first round of layoffs, amount raised in the first round of layoffs, Crunchbase trend score, number of acquisitions, number of funding rounds, total funding amount.
 
-![image]()
-![image]()
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/feat_importance_final.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/conf_matrix.png)
 
 ## Dashboard Demo
 
-![image]()
-![image]()
-![image]()
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/dash1.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/dash2.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/dash3.png)
 
 ## Conclusion / Next Steps
 
@@ -59,8 +61,8 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 
 ## For More Information
 
-* [Notebook]()
-* [Presentation]()
+* [Notebook](https://github.com/ntdoris/dsc-project-5/blob/main/modeling.ipynb)
+* [Presentation](https://github.com/ntdoris/dsc-project-5/blob/main/presentation.pdf)
 * Reach me at ntdoris2@gmail.com
 
 ## Repository Structure
