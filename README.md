@@ -57,7 +57,7 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 ## Conclusion / Next Steps
 
 * THERE IS HOPE. Job postings should remain stable for the next year, meaning there are opportunities for laid off employees
-* Larger companies tend to see more rounds of layoffs ? be proactive if you are an employee at one of these firms
+* Larger companies tend to see more rounds of layoffs: be proactive if you are an employee at one of these firms
 * Potential next steps include: gathering more company data to feed into classification model, gathering data describing the specific roles laid off, salary, & types of jobs posted to match laid off employees with job postings that may fit their background, building out dashboard with more data on the industry and adding an interactive component to the layoff tab
 
 ## For More Information
