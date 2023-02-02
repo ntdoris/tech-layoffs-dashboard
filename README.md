@@ -1,9 +1,9 @@
 
 # State of the Tech Labor Market
 ![Header](https://github.com/ntdoris/dsc-project-5/blob/main/images/header.png)
-[Source: Capital Search] (https://www.capitalsearch.com/2018-job-market/)
 
-![image]()
+[Source: Capital Search](https://www.capitalsearch.com/2018-job-market/)
+
 
 Since the beginning of this year, over 85,000 people in the tech industry have lost their jobs. Given these massive numbers, I thought it would be helpful to take a deeper look at the state of the industry to get a sense of what is really going on behind the scenes -- and to see whether there is hope for any of us out there who are looking for a job.
 
@@ -16,11 +16,12 @@ focus on job postings
 The data for this project came from several sources:
 * [layoffs.fyi](https://layoffs.fyi/)
 * [U.S. Census Bureau - API](https://api.census.gov/data/timeseries/eits/bfs.html)
-* [Simply WallSt] (https://simplywall.st/markets/us/tech)
-* [Crunchbase] (https://www.crunchbase.com/)
+* [Simply WallSt](https://simplywall.st/markets/us/tech)
+* [Crunchbase](https://www.crunchbase.com/)
 * [U.S. Bureau of Labor Statistics](https://www.bls.gov/)
 * [Kaggle / Affinity / Lightcast)](https://www.kaggle.com/datasets/douglaskgaraujo/opportunity-insights-real-time-economic-tracker-us)
 * [Indeed Hiring Lab](https://www.hiringlab.org/)
+* [Yahoo Finance](https://finance.yahoo.com/)
 
 ## Modeling
 
