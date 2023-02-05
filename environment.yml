@@ -1,7 +1,4 @@
 name: cap-env
-channels:
-  - conda-forge
-  - defaults
 dependencies:
   - _tflow_select=2.2.0=eigen
   - abseil-cpp=20211102.0=he9d5cce_0
