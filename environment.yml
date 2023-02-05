@@ -215,5 +215,5 @@ dependencies:
   - zlib=1.2.13=h4dc903c_0
   - zstd=1.5.2=hcb37349_0
   - pip:
-      - -r requirements.txt
+      - -r requirements2.txt
 prefix: /Users/natalyadoris/opt/anaconda3/envs/cap-env
