@@ -44,10 +44,11 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 
 ![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/layoffs_ind.png)
 
-* The final model was an XG Boost Classifier, and included categorical data - industry, country, number of employees, status - as well as continuous data - revenue estimate, year of the first round of layoffs, amount raised in the first round of layoffs, Crunchbase trend score, number of acquisitions, number of funding rounds, total funding amount.
+* The final model was an XG Boost Classifier, and included categorical data - industry, country, number of employees, status - as well as continuous data - revenue estimate, year of the first round of layoffs, amount raised in the first round of layoffs, Crunchbase trend score, number of acquisitions, number of funding rounds.
 
 ![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/feat_importance_final.png)
-![image](https://github.com/ntdoris/dsc-project-5/blob/main/assets/final_conf_matrix.png)
+
+![image](https://github.com/ntdoris/tech-layoffs-dashboard/blob/main/assets/final_confusion_matrix.png)
 
 ## Dashboard Demo
 
