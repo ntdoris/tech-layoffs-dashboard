@@ -20,7 +20,7 @@ The data for this project came from several sources:
 * [Simply WallSt](https://simplywall.st/markets/us/tech)
 * [Crunchbase](https://www.crunchbase.com/)
 * [U.S. Bureau of Labor Statistics](https://www.bls.gov/)
-* [Kaggle / Affinity / Lightcast)](https://www.kaggle.com/datasets/douglaskgaraujo/opportunity-insights-real-time-economic-tracker-us)
+* [Kaggle / Affinity / Lightcast](https://www.kaggle.com/datasets/douglaskgaraujo/opportunity-insights-real-time-economic-tracker-us)
 * [Indeed Hiring Lab](https://www.hiringlab.org/)
 * [Yahoo Finance](https://finance.yahoo.com/)
 
