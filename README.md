@@ -68,13 +68,14 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 * Reach me at ntdoris2@gmail.com
 
 ## Repository Structure
-'''bash
-* Data <- contains zip file with data for notebooks
-*  Assets <- image files for Plotly dashboard
-* Images
-* Data Visualization & Dashboard Notebook
-* Modeling Notebook
-* Presentation Deck
-* README.md
-* requirements.txt and runtime.txt <- environment setup for reproducibility 
-'''
+
+.
+* [Data](./Data) <- contains zip file with data for notebooks
+*  [Assets](./Assets) <- image files for Plotly dashboard
+* [Images](./Images)
+* [Data Visualization & Dashboard Notebook](./Data Visualization & Dashboard Notebook)
+* [Modeling Notebook](./Modeling Notebook)
+* [Presentation Deck](./Presentation Deck)
+* [README.md](./README.md)
+* (requirements.txt and runtime.txt)[./requirements.txt and runtime.txt] <- environment setup for reproducibility 
+
