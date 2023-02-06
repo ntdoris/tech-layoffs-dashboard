@@ -8,3 +8,4 @@ req.txt
 requirements2.txt
 environment.yml
 environment2.yml
+__pycache__
