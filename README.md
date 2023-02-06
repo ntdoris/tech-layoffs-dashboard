@@ -35,6 +35,7 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 
 * The final model passed all assumptions, and resulted in a RMSE of ~ 0.1
 ![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/model_validation.png)
+![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/timeseries_diagnostics.png)
 
 * Forecast:
 ![image](https://github.com/ntdoris/dsc-project-5/blob/main/images/forecast.png)
@@ -67,10 +68,13 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 * Reach me at ntdoris2@gmail.com
 
 ## Repository Structure
-
-* Data
-*  Assets <- image files
+'''bash
+* Data <- contains zip file with data for notebooks
+*  Assets <- image files for Plotly dashboard
+* Images
 * Data Visualization & Dashboard Notebook
 * Modeling Notebook
 * Presentation Deck
 * README.md
+* requirements.txt and runtime.txt <- environment setup for reproducibility 
+'''
