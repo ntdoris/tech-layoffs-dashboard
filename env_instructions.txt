@@ -1,0 +1,31 @@
+To set up a virtual environment (Mac), follow the below instructions
+in your terminal:
+
+1. Clone repo onto your local system
+git clone https://github.com/ntdoris/tech-layoffs-dashboard
+
+2. Change the current directory to that cloned repo
+cd [local file path to repo]/tech-layoffs-dashboard
+
+3. Install virtual env:
+python3 -m pip install --user virtualenv
+
+4. Create a virtual environment, in this case named env:
+python3 -m venv env
+
+5. Activate the virtual environment:
+source env/bin/activate
+
+6. Install necessary packages from requirements.txt file:
+pip install -r requirements.txt
+
+7. Add environment to jupyter notebooks:
+ipython kernel install --user --name=env
+
+8. Open jupyter notebook:
+jupyter notebook
+
+9. Select the installed kernel in jupyter notebook.
+
+If any questions, please reach out via email: ntdoris2@gmail.com
+Thank you!
