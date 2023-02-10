@@ -68,18 +68,22 @@ I ran two types of models, the first a SARIMA Time Series Forecast for Job Posti
 * [Presentation](https://github.com/ntdoris/dsc-project-5/blob/main/presentation.pdf)
 * Reach me at ntdoris2@gmail.com
 
+## Reproducibility
+For instructions on how to run the notebooks in this repo and set up a virtual environment, please see the [environment instructions](https://github.com/ntdoris/tech-layoffs-dashboard/blob/main/env_instructions.txt) file.
+
 ## Repository Structure
 
 <pre>
 .
 ├── modeling.ipynb
-├── EDA & Dashboard Layout.ipynb
+├── eda_dashboard.ipynb
 ├── README.md
 ├── assets <-- image files for Plotly dashboard
 ├── images
 ├── data
 │   └── data.zip
 ├── presentation.pdf
+├── env_instructions.txt
 ├── requirements.txt
 └── runtime.txt
 </pre> 
