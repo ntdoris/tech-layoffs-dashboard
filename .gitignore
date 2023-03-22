@@ -9,6 +9,7 @@ environment.yml
 environment2.yml
 __pycache__
 EDA & Dashboard Layout.ipynb
+Tech_Labor_Market_Presentation.pptx
 
 # comment out the below for publishing liv dashboard on heroku
 dash_app.py
