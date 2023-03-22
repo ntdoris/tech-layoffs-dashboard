@@ -8,3 +8,9 @@ requirements2.txt
 environment.yml
 environment2.yml
 __pycache__
+EDA & Dashboard Layout.ipynb
+
+# comment out the below for publishing liv dashboard on heroku
+dash_app.py
+final_classification_model.pkl
+Procfile
